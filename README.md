@@ -1,13 +1,13 @@
 # kugoumusic
 
 > A Vue.js project
-> 技能描述:
->     •HTML+CSS页面UI的搭建
->     •采用Vue框架进行页面设计及功能的实现
->     •页面的搭建部分运用Mint-UI移动端组件库实现页面UI
->     •运用Vuex实现音乐列表与播放器的联动
->     •运用EX6语法编写功能代码
->     •运用axios获取后台json数据
+ 技能描述:
+     •HTML+CSS页面UI的搭建/n
+     •采用Vue框架进行页面设计及功能的实现
+     •页面的搭建部分运用Mint-UI移动端组件库实现页面UI
+     •运用Vuex实现音乐列表与播放器的联动
+     •运用EX6语法编写功能代码
+     •运用axios获取后台json数据
 
 
 ## Build Setup
