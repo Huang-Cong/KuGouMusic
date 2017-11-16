@@ -1,6 +1,7 @@
 # kugoumusic
 
 > A Vue.js project
+
 ``` bash
  技能描述:
      •HTML+CSS页面UI的搭建
@@ -13,7 +14,6 @@
 
 ## Build Setup
 
-``` bash
 # install dependencies
 npm install
 
